@@ -703,7 +703,7 @@ cite {
 
 /* Logo Styling */
 .site-logo {
-    max-height: 200px; /* Adjusted for larger size */
+    max-height: 300px; /* Adjusted for larger size */
     width: auto;
     display: block; /* Ensures it behaves like a block element */
 }
